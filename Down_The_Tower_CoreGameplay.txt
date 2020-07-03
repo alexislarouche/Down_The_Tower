@@ -1,0 +1,20 @@
+Core gameplay loop : 
+1-Prepare at base for the exploration (buy skills, swap character, prepare skills etc.)
+2-Dwelve into the tower and explore (Kill monsters, get loot and solve puzzles)
+3-Die (Respawn at base)
+
+Hooks :
+-"Fezz puzzle mechanics" (if used well can create simple and fun refreshing puzzles every now and then)
+-Various characters = various gameplay style
+-Challenging dungeons and bosses
+
+Absolutely needed to work : 
+-Well themed art
+-Engaging fights
+-Nice sounds (minimal music and foremost audio feedback for actions)
+-Well balanced mechanics
+-Good gameplay feeling (nice feedback, good response time, fluid camera movement on rotation, etc)
+
+
+
+-NOTE : for logistics reasons, it would be way easier to rotate/replace the map instead of the camera
